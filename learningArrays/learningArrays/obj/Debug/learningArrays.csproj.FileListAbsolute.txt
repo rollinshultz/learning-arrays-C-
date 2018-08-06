@@ -1,0 +1,6 @@
+C:\Users\rolli\OneDrive\Visual Studio Projects\C#\learningArrays\learningArrays\obj\Debug\learningArrays.csproj.CoreCompileInputs.cache
+C:\Users\rolli\OneDrive\Visual Studio Projects\C#\learningArrays\learningArrays\bin\Debug\learningArrays.exe.config
+C:\Users\rolli\OneDrive\Visual Studio Projects\C#\learningArrays\learningArrays\bin\Debug\learningArrays.exe
+C:\Users\rolli\OneDrive\Visual Studio Projects\C#\learningArrays\learningArrays\bin\Debug\learningArrays.pdb
+C:\Users\rolli\OneDrive\Visual Studio Projects\C#\learningArrays\learningArrays\obj\Debug\learningArrays.exe
+C:\Users\rolli\OneDrive\Visual Studio Projects\C#\learningArrays\learningArrays\obj\Debug\learningArrays.pdb
